@@ -38,3 +38,4 @@
 2. `node index.js`: 生成 txt，详见代码
 3. `bash clone.sh`: 批量 clone
 4. `bash pull.sh`: 遍历当前文件夹下又.git 的项目，然后执行 git pull
+![效果](录屏.gif)
